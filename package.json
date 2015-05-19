@@ -1,0 +1,25 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "program.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idwth/git-it_Tutorial.git"
+  },
+  "keywords": [
+    "bannanahammock"
+  ],
+  "author": "Kelsey Weingartner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idwth/git-it_Tutorial/issues"
+  },
+  "homepage": "https://github.com/idwth/git-it_Tutorial#readme",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
